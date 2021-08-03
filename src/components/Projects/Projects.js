@@ -24,11 +24,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-                imgPath={portfolio}
+              imgPath={portfolio}
               isBlog={false}
               title="PortFolio Website"
               description="My portfolio website contains my introduction, my skills, my achievements and also my resume."
-              link="https://github.com/soumyajit4419/Chatify"
+              link="https://dipsikhaportfolio.herokuapp.com/"
             />
           </Col>
 
